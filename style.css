@@ -82,3 +82,29 @@ ul li img {
     border-radius: 8px;
     border: #555555 solid 1px;
 }
+
+/* transitions */
+
+header div {
+    transition-duration: 0.4s;
+}
+
+header div:hover {
+    transform: scale(1.1);
+}
+
+main div img {
+    transition-duration: 0.4s;
+}
+
+main div img:hover {
+    transform: scale(1.1);
+}
+
+section svg {
+    transition-duration: 0.4s;
+}
+
+section svg:hover {
+    transform: scale(1.3);
+}
