@@ -80,4 +80,5 @@ ul {
 
 ul li img {
     border-radius: 8px;
+    border: #555555 solid 1px;
 }
